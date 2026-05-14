@@ -35,12 +35,7 @@ I currently work with frontend development, code standards, technical improvemen
 
 ### 📊 GitHub stats
 
-<p align="center">
+
 ![Alanís GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanisboeing&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanisboeing&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-
-</p>
-
-<p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanisboeing&layout=compact&theme=tokyonight&cache_seconds=86400)
-</p>
