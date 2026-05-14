@@ -26,16 +26,12 @@ I currently work with frontend development, code standards, technical improvemen
 
 ### 🚀 Featured projects
 
-- **RedeDeTalentos** — talent network application
-- **stockwise** — stock/management app
 - **next-keycloak-starter** — authentication starter with Next.js and Keycloak
-- **CoffeeDelivery** — frontend application focused on shopping experience
 
 ---
 
 ### 📊 GitHub stats
 
-
 ![Alanís GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanisboeing&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanisboeing&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanisboeing&layout=compact&theme=tokyonight&cache_seconds=86400)
